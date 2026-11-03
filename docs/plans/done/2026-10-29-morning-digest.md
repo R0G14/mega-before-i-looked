@@ -76,4 +76,6 @@ The preview carries this lane's marker on a public link (ADR 0003). Take the mar
 page again with `LANE_MARKER` unset (the banner reads "no marker set") and upload it over the same
 link. Move this plan to `docs/plans/done/` with its issue list.
 
-Done when: the preview link no longer shows the lane marker.
+Done when: the same public preview URL serves the digest with “no marker set” and no course lane marker, and this plan is archived here with the complete issue list.
+
+Issues: #1, #2, #3, #4, #5, #6, #7.
